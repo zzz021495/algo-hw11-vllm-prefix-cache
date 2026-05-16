@@ -1,0 +1,5 @@
+========== 比較摘要 ==========
+  吞吐 (req/s) 加速:  2.86 倍
+  吞吐 (tok/s) 加速:  2.86 倍
+  總耗時下降:          65.1%  (4.74s → 1.65s)
+  (TTFT 缺失: vLLM V1 engine 在 offline 模式不回傳 per-request metrics)

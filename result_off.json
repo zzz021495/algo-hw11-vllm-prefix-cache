@@ -1,0 +1,14 @@
+{
+  "enable_prefix_caching": false,
+  "model": "facebook/opt-125m",
+  "n_prompts": 100,
+  "max_tokens": 64,
+  "elapsed_sec": 3.1956829410000864,
+  "throughput_req_per_sec": 31.292215731734977,
+  "throughput_tok_per_sec": 23844.668387582053,
+  "input_tokens_total": 69800,
+  "output_tokens_total": 6400,
+  "input_tokens_per_prompt": 698,
+  "ttft_sec": null,
+  "e2e_sec": null
+}
